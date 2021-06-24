@@ -1,15 +1,30 @@
-Sunday - The Voice assisstant
+# Sunday - The Voice assistant
+  <p align="center">
+  <img width="380" height="270" src="https://user-images.githubusercontent.com/81485191/123211487-26e1e280-d4e1-11eb-808e-20a9eec02022.png">
+  </p>
 
-creators - 
-
-description - what we used -- - - python , js ,css , html -- complte VA input voice etc 
 
 
-Manual - Features
 
-1....time
-2....wikipedia --- command Line-  " wikipedia pawan kalyan " 
- photo 
+## Developers 👦👧👦
+                1. Sai krishna Ghanta (College🏛️: IIIT NAYA RAIPUR,✉️-)
+                2. Supriya Kundrapu (College🏛️: IIIT NAYA RAIPUR,✉️-)
+                3. B.Avinash Reddy (College🏛️: IIIT NAYA RAIPUR,✉️- bavinashreddy18@gmail.com)
+
+## Description 📝
+                 Sunday - The voice Assistant has been implemented by few languages such as 🔺Python,🔹Javascript,📍HTML and 
+                 ⭐CSS.This is simple way to build personal voice assistant with various features such as time,wikipedia,
+                 weather,basic conversations,social media(Automated whatsapp),maps,automated online classes, translate in 
+                 different languages, internet speed test, Audio book etc. 
+
+
+## Manual Features 🔏
+
+### 1. Time ⏲️
+                Sunday says accurate time in your place in a format of hours:minutes:seconds.The example as follows,
+
+### 2. Wikipedia 📖 
+ 
 3.....Basic conversations -- 
 
 4. it can open fb,utube,github,whatsapp ,instagram directly from yourbroswer
