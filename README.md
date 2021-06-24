@@ -7,8 +7,8 @@
 
 
 ## ***Developers*** 👦👧👦
-                1. Sai krishna Ghanta (College🏛️: IIIT NAYA RAIPUR,✉️-)
-                2. Supriya Kundrapu (College🏛️: IIIT NAYA RAIPUR,✉️-)
+                1. Supriya Kundrapu (College🏛️: IIIT NAYA RAIPUR,✉️-)
+                2. Sai krishna Ghanta (College🏛️: IIIT NAYA RAIPUR,✉️-)
                 3. B.Avinash Reddy (College🏛️: IIIT NAYA RAIPUR,✉️- bavinashreddy18@gmail.com)
 
 ## ***Description*** 📝
