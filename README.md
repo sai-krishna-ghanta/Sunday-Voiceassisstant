@@ -16,8 +16,10 @@
                  ⭐CSS.This is one of the sophisticated way to build personal voice assistant with various features such as Time,Wikipedia,
                  Weather,Basic conversations,Social media(Automated whatsapp),Google Maps,Automated online classes, Translate in 
                  different languages, Internet speed test, Image Capture(OpenCV),Toss Coin, Poweroff PC and Two methods in Terminations.
-
-
+## ***Bash*** 📝
+                  pip install -r requirements.txt
+                  python sunday.py
+                  
 ## ***Features*** 🔏
 
 ### 1. Time ⏲️
