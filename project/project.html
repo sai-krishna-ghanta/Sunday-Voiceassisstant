@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <link href="./project.css" rel="stylesheet">
+    <script type="text/javascript" src="eel.js"></script>
+    <script type="text/javascript">
+        function news(){
+            eel.trail()
+        }
+        function addText(msg){
+            var data=document.getElementById("content");
+            data.innerHTML+="<br>"+msg;
+        }
+        eel.expose(addText);
+    </script>
+    <title>Sunday</title>
+    <link rel="icon" type="iamge/png" href="./mic.png">
+</head>
+<body>
+    <div class="half">
+        <div class="show">
+            <button onclick="news()"><img src="mic.svg" alt="mic"></button>
+        </div>
+    </div>
+    <div id="text">
+        <p>Text will appear here:</p>
+        <div id="content"></div>
+    </div>
+</body>
+</html>
