@@ -1,1 +1,8 @@
+In making the GUI we used eel to integrate html,css and python files.
+While using eel;
+                 import eel
+                 eel.init('web')
+                 eel.start('main.html')
+we should add these lines to the python code.
 
+And  <script type="text/javascript" src="/eel.js"></script>; this line should be included in javascript.=
